@@ -4,7 +4,7 @@
        version="0.9.9"
        provider-name="Ksosez,BlueCop">
     <requires>
-        <import addon="xbmc.python" version="1.0"/>
+        <import addon="xbmc.python" version="2.1.0"/>
 		<import addon="script.module.beautifulsoup" version="3.0.8"/>
     	<import addon="script.module.mechanize" version="0.2.5"/>
     	<import addon="script.module.elementtree" version="1.2.7"/>
