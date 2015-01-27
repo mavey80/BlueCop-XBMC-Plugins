@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.bluecop.xbmc-plugins" name="bluecop Add-on Repository" version="1.0.1" provider-name="bluecop">
+<addon id="repository.bluecop.xbmc-plugins" name="bluecop Add-on Repository" version="1.0.2" provider-name="bluecop">
 	<extension point="xbmc.addon.repository" name="bluecop Add-on Repository">
-		<info compressed="false">http://bluecop-xbmc-repo.googlecode.com/svn/trunk/addons.xml</info>
-		<checksum>http://bluecop-xbmc-repo.googlecode.com/svn/trunk/addons.xml.md5</checksum>
-		<datadir zip="false">http://bluecop-xbmc-repo.googlecode.com/svn/trunk/</datadir>
+		<info compressed="false">https://github.com/mavey80/BlueCop-XBMC-Plugins/tree/master/addons.xml</info>
+		<checksum>https://github.com/mavey80/BlueCop-XBMC-Plugins/tree/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://github.com/mavey80/BlueCop-XBMC-Plugins/archive/master.zip</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>Install Add-ons from bluecop Add-on Repository</summary>
